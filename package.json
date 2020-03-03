@@ -1,0 +1,20 @@
+{
+  "name": "ghibli-studio",
+  "version": "1.0.0",
+  "description": "basic web",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhuongDongIOT/ghibli-studio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhuongDongIOT/ghibli-studio/issues"
+  },
+  "homepage": "https://github.com/PhuongDongIOT/ghibli-studio#readme"
+}
