@@ -1,0 +1,2 @@
+# ghibli-studio
+basic web
